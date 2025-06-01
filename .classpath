@@ -10,5 +10,6 @@
 	<classpathentry kind="src" path="ex02POO"/>
 	<classpathentry kind="src" path="ex03POO"/>
 	<classpathentry kind="src" path="ex04POO"/>
+	<classpathentry kind="src" path="ex05ContaBancaria"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
