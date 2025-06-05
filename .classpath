@@ -5,7 +5,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="exIniciais"/>
+	<classpathentry kind="src" path="ex00"/>
 	<classpathentry kind="src" path="ex01POO"/>
 	<classpathentry kind="src" path="ex02POO"/>
 	<classpathentry kind="src" path="ex03POO"/>
@@ -13,5 +13,6 @@
 	<classpathentry kind="src" path="ex05ContaBancaria"/>
 	<classpathentry kind="src" path="ex06POO"/>
 	<classpathentry kind="src" path="ex07POO"/>
+	<classpathentry kind="src" path="ex08Hotel"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
