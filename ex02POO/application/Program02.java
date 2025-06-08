@@ -7,7 +7,7 @@ package application;
 
 import java.util.Locale;
 import java.util.Scanner;
-import entities.Employee;
+import entities.Employee01;
 
 public class Program02 {
 
@@ -16,7 +16,7 @@ public class Program02 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		Employee emp = new Employee();
+		Employee01 emp = new Employee01();
 		
 		System.out.print("Name: ");
 		emp.name = sc.next();

@@ -14,5 +14,6 @@
 	<classpathentry kind="src" path="ex06POO"/>
 	<classpathentry kind="src" path="ex07POO"/>
 	<classpathentry kind="src" path="ex08Hotel"/>
+	<classpathentry kind="src" path="ex09POOList"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
