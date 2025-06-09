@@ -15,5 +15,8 @@
 	<classpathentry kind="src" path="ex07POO"/>
 	<classpathentry kind="src" path="ex08Hotel"/>
 	<classpathentry kind="src" path="ex09POOList"/>
+	<classpathentry kind="src" path="ex10Matriz"/>
+	<classpathentry kind="src" path="ex11Matriz02"/>
+	<classpathentry kind="src" path="ex12DateTime"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

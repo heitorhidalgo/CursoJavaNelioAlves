@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
-import entities.Employee;
+import entities.Employee01;
 
 public class Program09 {
 
@@ -24,12 +24,12 @@ public class Program09 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		List<Employee> list = new ArrayList<>();
+		List<Employee01> list = new ArrayList<>();
 		
 		System.out.print("How many employees will be registered? ");
 		int N = sc.nextInt();
 		
-		for(i=1;i<=N;i++) {
+		for(int i=1;i<=N;i++) {
 			
 			System.out.println();
 			System.out.println("Employee #" + i + ": ");
@@ -45,7 +45,7 @@ public class Program09 {
 			System.out.print("Salary: ");
 			Double salary = sc.nextDouble();
 			
-			Employee emp = new Employee01(id, name, salary);
+			Employee01 emp = new Employee01(id, name, salary);
 			
 			list.add(emp);
 		}
@@ -65,7 +65,7 @@ public class Program09 {
 		
 		System.out.println();
 		System.out.println("List of employees: ");
-		for(Employee emp : list) {
+		for(Employee01 emp : list) {
 			System.out.println(emp);
 		}
 		
@@ -73,7 +73,7 @@ public class Program09 {
 
 	}
 	
-	public static Integer position(List<Employee> list, int id) {
+	public static Integer position(List<Employee01> list, int id) {
 		for(int i=0; i<list.size(); i++) {
 			if(list.get(i).getId()==id) {
 				return i;
@@ -82,8 +82,8 @@ public class Program09 {
 		return null;
 	}
 	
-	public static boolean hasId(List<Employee> list, int id) {
-		Employee emp = list.stream().filter(x -> x.getId() == id).findFirst().orElse(null);
+	public static boolean hasId(List<Employee01> list, int id) {
+		Employee01 emp = list.stream().filter(x -> x.getId() == id).findFirst().orElse(null);
 		return emp != null;
 	}
 }
