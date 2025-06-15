@@ -19,5 +19,7 @@
 	<classpathentry kind="src" path="ex11Matriz02"/>
 	<classpathentry kind="src" path="ex12DateTime"/>
 	<classpathentry kind="src" path="ex13Composition"/>
+	<classpathentry kind="src" path="ex14Composition02"/>
+	<classpathentry kind="src" path="ex15Composition03"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
