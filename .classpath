@@ -23,5 +23,6 @@
 	<classpathentry kind="src" path="ex15Composition03"/>
 	<classpathentry kind="src" path="ex16Inheritance"/>
 	<classpathentry kind="src" path="ex17Inheritance01"/>
+	<classpathentry kind="src" path="ex18Inheritance02"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
