@@ -26,5 +26,6 @@
 	<classpathentry kind="src" path="ex18Inheritance02"/>
 	<classpathentry kind="src" path="ex19Exceptions"/>
 	<classpathentry kind="src" path="ex20Exceptions01"/>
+	<classpathentry kind="src" path="ex21Files"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
