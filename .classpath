@@ -29,5 +29,6 @@
 	<classpathentry kind="src" path="ex21Files"/>
 	<classpathentry kind="src" path="ex22Interfaces"/>
 	<classpathentry kind="src" path="ex23Interfaces01"/>
+	<classpathentry kind="src" path="ex24Interfaces02"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
