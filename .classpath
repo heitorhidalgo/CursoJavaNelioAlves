@@ -32,5 +32,6 @@
 	<classpathentry kind="src" path="ex24Interfaces02"/>
 	<classpathentry kind="src" path="ex25Set"/>
 	<classpathentry kind="src" path="ex26Map"/>
+	<classpathentry kind="src" path="ex27Lambda"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
